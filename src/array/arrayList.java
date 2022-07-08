@@ -18,5 +18,12 @@ public class arrayList {
         System.out.println("Names: " + nameList);
 
 
+        //display the content of the array list one by one
+        for(String name: nameList){
+            System.out.println(name);
+        }
+
+
+
     }
 }
