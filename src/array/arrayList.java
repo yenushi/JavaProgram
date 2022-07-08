@@ -23,7 +23,10 @@ public class arrayList {
             System.out.println(name);
         }
 
+        //insert another name at the index 2 in nameList
+        nameList.add(2,"Mishty");
 
+        System.out.println("names :" + nameList);
 
     }
 }
