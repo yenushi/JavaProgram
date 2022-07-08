@@ -14,6 +14,8 @@ public class arrayList {
         //display the size of array
         System.out.println("The size of the array list: "+ nameList.size());
 
+        //display the content of the array list
+        System.out.println("Names: " + nameList);
 
 
     }
