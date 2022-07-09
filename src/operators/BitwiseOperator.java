@@ -27,6 +27,10 @@ public class BitwiseOperator {
         result = (byte) ~val1; // bitwise one's complement of val1
         System.out.println("The result : " + result);
 
+        result = (byte) (val1 & val2); // bitwise AND operator
+        System.out.println("The result : " + result);
+
+
 
 
 
