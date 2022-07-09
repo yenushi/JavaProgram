@@ -42,6 +42,15 @@ public class StringFunction {
 
         //get substring from a given substring
         System.out.println("Substring of " + str2 + " from 5 to 15 : " + str2.substring(5,11));
+
+        //split the string by using (-) as delimiter
+        str1 = "This-is-a-test-string";
+        String[] splitArr = str1.split("-");
+
+        System.out.println("The slitted parts are: ");
+        for(String split : splitArr) // for each element of split string set
+            System.out.println(split);
+
     }
 
 }
