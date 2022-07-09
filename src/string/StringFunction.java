@@ -20,6 +20,8 @@ public class StringFunction {
         else
             System.out.println(str1 + " & " + " are not same (ignoring case sensitive) ");
 
+        //finding character at the given index
+        System.out.println("The character at position 2 is : " + str1.charAt(2));
 
 
     }
