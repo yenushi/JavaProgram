@@ -21,6 +21,9 @@ public class arithmeticOperators {
         result = a * b; // arithmetic multiplication of a and b
         System.out.println("Result after multiplication: " + result);
 
+        result = a / b; // arithmetic division of a and b
+        System.out.println("Result after division: " + result);
+
     }
 
 
