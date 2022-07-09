@@ -26,14 +26,16 @@ public class StringFunction {
         //compare the first string with second, it returns distance of first mismatched characters
         System.out.println("Comparing " + str1 + " & " + str2 + "Distance : " + str1.compareTo(str2));
 
-        str1 = "INDUDINITHENNAKOON";
+        str1 = "INDUDINITHENNAKOONINDUDINI";
         str2 = "JAVA String Function";
 
         //check whether the string is starts with or ends with given substring or not
-        System.out.println("The string " + str1 + " is starts with (IND)");
-        System.out.println("The string " + str1 + " is ends with (KOON)");
+        System.out.println("The string " + str1 + " is starts with (IND)" + str1.startsWith());
+        System.out.println("The string " + str1 + " is ends with (INI)" + str1.endsWith());
 
-
+        //finding the location of first and last occurrence of a substring
+        System.out.println("First index of (DUD) in " + str1 + " is " + str1.indexOf("DUD"));
+        System.out.println("First index of (DUD) in " + str1 + " is " + str1.lastIndexOf("DUD"));
     }
 
 }
