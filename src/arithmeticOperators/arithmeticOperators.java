@@ -12,6 +12,9 @@ public class arithmeticOperators {
         a = scanner.nextInt();
         b = scanner.nextInt();
 
+        result = a + b; // arithmetic addition of a and b
+        System.out.println("Result after addition: " + result);
+
     }
 
 
