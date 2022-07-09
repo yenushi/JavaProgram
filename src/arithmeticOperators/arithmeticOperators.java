@@ -24,6 +24,9 @@ public class arithmeticOperators {
         result = a / b; // arithmetic division of a and b
         System.out.println("Result after division: " + result);
 
+        result = a % b; // remainder operator to get remainder after dividing a by b
+        System.out.println("Remainder: " + result);
+
     }
 
 
