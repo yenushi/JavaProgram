@@ -12,7 +12,7 @@ public class StringFunction {
         if(str1.equals(str2))
             System.out.println(str1 + " & " + str2 + "are same");
         else
-            System.out.println(str1 + " & " + str2 + "are not same");
+            System.out.println(str1 + " & " + str2 + " are not same");
 
         //equal method to check both strings are same of not ( CASE SENSITIVITY will ignore)
         if(str1.equalsIgnoreCase(str2))
@@ -25,6 +25,9 @@ public class StringFunction {
 
         //compare the first string with second, it returns distance of first mismatched characters
         System.out.println("Comparing " + str1 + " & " + str2 + "Distance : " + str1.compareTo(str2));
+
+        str1 = "INDUDINITHENNAKOON";
+        str2 = "JAVA String Function";
 
 
     }
