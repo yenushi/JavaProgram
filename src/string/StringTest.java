@@ -22,6 +22,8 @@ public class StringTest {
         string = "String" + " " + "Concatenate"; // concatenate three string into single string
         System.out.println("The value of string : " + string);
 
+        scanner.close();
+
 
 
 
