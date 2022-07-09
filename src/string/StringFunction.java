@@ -51,6 +51,11 @@ public class StringFunction {
         for(String split : splitArr) // for each element of split string set
             System.out.println(split);
 
+        //trim the blank spaces from starting and ending of the string
+        str2 = "      Lot's of Spaces      ";
+        System.out.println("Before Trimming: (" + str2 + ")");
+
+
     }
 
 }
