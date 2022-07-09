@@ -39,6 +39,9 @@ public class StringFunction {
 
         //replacing a substring with new substring
         System.out.println("Replacing (IND) to (Mishty)" + str1 + " is: " + str1.replace("IND","Mishty"));
+
+        //get substring from a given substring
+        System.out.println("Substring of " + str2 + " from 5 to 15 : " + str2.substring(5,11));
     }
 
 }
