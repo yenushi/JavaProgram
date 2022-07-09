@@ -9,6 +9,8 @@ public class conditionalOperators {
         result = bool1 || bool2; // true when at least one value is true
         System.out.println("The result is: " + result);
 
+        result = bool1 && bool2; // true when both values are true
+        System.out.println("The result is: " + result);
 
     }
 }
