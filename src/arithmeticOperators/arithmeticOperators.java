@@ -18,6 +18,9 @@ public class arithmeticOperators {
         result = a - b; // arithmetic subtraction of a and b
         System.out.println("Result after subtraction : " + result);
 
+        result = a * b; // arithmetic multiplication of a and b
+        System.out.println("Result after multiplication: " + result);
+
     }
 
 
