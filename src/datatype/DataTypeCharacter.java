@@ -10,6 +10,9 @@ public class DataTypeCharacter {
         mychar = 70; //ASCII value of character F
         System.out.println("The value of mychar: " + mychar);
 
+        mychar  = '\u0041'; //unicode Hexadecimal value for integer (From 0000 to FFFF)
+        System.out.println("The value of mychar: " + mychar);
+
 
     }
 }
