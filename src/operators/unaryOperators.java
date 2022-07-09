@@ -11,7 +11,7 @@ public class unaryOperators {
         var2 = ++var1; //pre-incrementing, increase var1 by 1, then assign to var2
         System.out.println("The var1 = " + var1 + ", var2 = " + var2);
 
-        var2 = var1++;//post-incrementing, increase var1 by 1, then assign to var2
+        var2 = var1++;//post-incrementing, store previous value , then increase var1 by 1
         System.out.println("The var1 = " + var1 + ", var2 = " + var2);
 
         var2 = --var1;//pre-decrementing, increase var1 by 1, then assign to var2
