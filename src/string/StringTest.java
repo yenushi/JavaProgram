@@ -14,6 +14,8 @@ public class StringTest {
 
         System.out.println("Enter String: ");
         string = scanner.nextLine(); //get the string from the user
+        System.out.println("User entered string is : " + string);
+
 
     }
 }
