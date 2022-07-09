@@ -30,12 +30,15 @@ public class StringFunction {
         str2 = "JAVA String Function";
 
         //check whether the string is starts with or ends with given substring or not
-        System.out.println("The string " + str1 + " is starts with (IND)" + str1.startsWith());
-        System.out.println("The string " + str1 + " is ends with (INI)" + str1.endsWith());
+        System.out.println("The string " + str1 + " is starts with (IND)" + str1.startsWith("IND"));
+        System.out.println("The string " + str1 + " is ends with (INI)" + str1.endsWith("INI"));
 
         //finding the location of first and last occurrence of a substring
         System.out.println("First index of (DUD) in " + str1 + " is " + str1.indexOf("DUD"));
         System.out.println("First index of (DUD) in " + str1 + " is " + str1.lastIndexOf("DUD"));
+
+        //replacing a substring with new substring
+        System.out.println("Replacing (IND) to (Mishty)" + str1 + " is: " + str1.replace("IND","Mishty"));
     }
 
 }
