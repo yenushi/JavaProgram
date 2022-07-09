@@ -23,6 +23,14 @@ public class Functions {
        return num* factorial(num-1); // recursion call of the function factorial
     }
 
+    public static void main(String[] args) {
+        int num = 5;
+        int result;
+
+        result = (int) Math.pow(num,3); // pre-defined function pow to get number raise to the power of another number
+        System.out.println(num + "^3" + result);
+    }
+
 
 
 }
