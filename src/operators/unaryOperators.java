@@ -23,6 +23,11 @@ public class unaryOperators {
         boolean bool1,result;
         bool1 = true; //assign as true
 
+        result = ! bool1; // not operator will  invert the value of boolean variables
+        System.out.println("The bool1 is : " + bool1);
+        System.out.println("The result is : " + result);
+
+
 
 
     }
