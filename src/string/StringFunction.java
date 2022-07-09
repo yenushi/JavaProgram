@@ -23,6 +23,9 @@ public class StringFunction {
         //finding character at the given index
         System.out.println("The character at position 2 is : " + str1.charAt(2));
 
+        //compare the first string with second, it returns distance of first mismatched characters
+        System.out.println("Comparing " + str1 + " & " + str2 + "Distance : " + str1.compareTo(str2));
+
 
     }
 
