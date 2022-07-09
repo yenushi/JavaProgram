@@ -24,6 +24,11 @@ public class BitwiseOperator {
                        ~4    ---->     1111 1011
          */
 
+        result = (byte) ~val1; // bitwise one's complement of val1
+        System.out.println("The result : " + result);
+
+
+
 
 
 
