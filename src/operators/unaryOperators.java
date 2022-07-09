@@ -8,5 +8,10 @@ public class unaryOperators {
         var2 = -var1; // - unary operator to invert the sign of thr value of var1
         System.out.println("The var1 = " + var1 + ", var2 = " + var2);
 
+        var2 = ++var1; //pre-incrementing, store previous value , then increase var1 by 1
+        System.out.println("The var1 = " + var1 + ", var2 = " + var2);
+
+
+
     }
 }
