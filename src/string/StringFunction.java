@@ -29,6 +29,8 @@ public class StringFunction {
         str1 = "INDUDINITHENNAKOON";
         str2 = "JAVA String Function";
 
+        //check whether the string is starts with or ends with given substring or not
+
 
     }
 
