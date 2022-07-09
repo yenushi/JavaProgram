@@ -14,6 +14,9 @@ public class dataTypesReal {
         mydouble = -0.2356;//We can use D or d to represent double
         System.out.println("The value of double: " + mydouble);
 
+        mydouble = 22D/7; //converting 22 as double
+        System.out.println("The value of mydouble: " + mydouble);
+
 
 
     }
