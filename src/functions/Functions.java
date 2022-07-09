@@ -32,6 +32,8 @@ public class Functions {
 
         result = add(15,20); // call the user defined function add with two integer argument
         System.out.println("Result: " + result);
+
+        System.out.println("The value of 6! = " + factorial(6)); // calling the factorial function
     }
 
 
