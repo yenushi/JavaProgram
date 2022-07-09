@@ -15,5 +15,10 @@ public class RelationalOperators {
         result = (x <= y); // true when left operand is less than or equal right operand
         System.out.println("The result is: " + result);
 
+        result = (x > y); // true when left operand is greater than right operand
+        System.out.println("The result is: " + result);
+
+
+
     }
 }
