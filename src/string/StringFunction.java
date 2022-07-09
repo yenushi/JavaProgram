@@ -54,6 +54,7 @@ public class StringFunction {
         //trim the blank spaces from starting and ending of the string
         str2 = "      Lot's of Spaces      ";
         System.out.println("Before Trimming: (" + str2 + ")");
+        System.out.println("After Trimming: (" + str2.trim()+ ")");
 
 
     }
