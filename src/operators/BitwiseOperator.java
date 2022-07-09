@@ -36,6 +36,9 @@ public class BitwiseOperator {
         result = (byte) (val1 ^ val2); // bitwise XOR operator
         System.out.println("The result : " + result);
 
+        result = (byte) (val1 << 2); // shift 2 bits to the left
+        System.out.println("The result : " + result);
+
 
 
 
