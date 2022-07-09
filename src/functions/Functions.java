@@ -29,7 +29,11 @@ public class Functions {
 
         result = (int) Math.pow(num,3); // pre-defined function pow to get number raise to the power of another number
         System.out.println(num + "^3" + result);
+
+        result = add(15,20); // call the user defined function add with two integer argument
+        System.out.println("Result: " + result);
     }
+
 
 
 
