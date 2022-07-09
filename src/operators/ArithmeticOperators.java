@@ -1,8 +1,8 @@
-package arithmeticOperators;
+package operators;
 
 import java.util.Scanner;
 
-public class arithmeticOperators {
+public class ArithmeticOperators {
     public static void main(String[] args) {
         int a,b, result;
         Scanner scanner = new Scanner(System.in);

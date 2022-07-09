@@ -1,6 +1,6 @@
-package conditionlOperators;
+package operators;
 
-public class conditionalOperators {
+public class ConditionalOperators {
     public static void main(String[] args) {
         boolean bool1,bool2,result;
         bool1 = true;

@@ -1,7 +1,7 @@
 package array;
 
 import java.util.Scanner;
-public class array {
+public class Array {
     public static void main(String[] args) {
         int[] integer_array = { 10,20,30,40,50}; //five values are stored directly in the array
         float[] float_array = new float[5]; // float type array created whose size is 5

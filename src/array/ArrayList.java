@@ -1,8 +1,8 @@
 package array;
-import java.util.*; // import for accessing ArrayList Class
-public class arrayList {
+
+public class ArrayList {
     public static void main(String[] args) {
-        ArrayList<String> nameList = new ArrayList<String>();// create a string type array list
+        java.util.ArrayList<String> nameList = new java.util.ArrayList<String>();// create a string type array list
 
         // Add items in to the array list
         nameList.add("Indu");
