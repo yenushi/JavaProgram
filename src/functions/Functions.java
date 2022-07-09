@@ -15,8 +15,14 @@ public class Functions {
         int sum; // sum os loca; variable of the function add
         sum = a + b;
         return sum; // when the result as integer data
-
     }
+
+    public static int factorial(int num) {  // another recursive function to get factorial of a number
+       if(num <= 1)
+           return num; // when number is 1 or less than that, factorial is 1
+       return num* factorial(num-1); // recursion call of the function factorial
+    }
+
 
 
 }
