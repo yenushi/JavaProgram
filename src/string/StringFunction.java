@@ -30,6 +30,8 @@ public class StringFunction {
         str2 = "JAVA String Function";
 
         //check whether the string is starts with or ends with given substring or not
+        System.out.println("The string " + str1 + " is starts with (IND)");
+        System.out.println("The string " + str1 + " is ends with (KOON)");
 
 
     }
