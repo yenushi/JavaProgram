@@ -1,6 +1,6 @@
 package datatype;
 
-public class dataTypesReal {
+public class DataTypesReal {
     public static void main(String[] args) {
         float myfloat; //floating type data, size 4-bytes
 
