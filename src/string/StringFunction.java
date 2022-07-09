@@ -14,6 +14,13 @@ public class StringFunction {
         else
             System.out.println(str1 + " & " + str2 + "are not same");
 
+        //equal method to check both strings are same of not ( CASE SENSITIVITY will ignore)
+        if(str1.equalsIgnoreCase(str2))
+            System.out.println(str1 + " & " + " are same (ignoring case sensitive) ");
+        else
+            System.out.println(str1 + " & " + " are not same (ignoring case sensitive) ");
+
+
 
     }
 
