@@ -21,6 +21,9 @@ public class RelationalOperators {
         result = (x >= y); // true when left operand is greater than or equal right operand
         System.out.println("The result is: " + result);
 
+        result = (2 != 2); // true left operand and right operand are not same
+        System.out.println("The result is: " + result);
+
 
 
     }
