@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e50d6788-bcd1-44e8-8d8a-8a05f0a4efb8" name="Changes" comment="single line comment">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arithmeticOperators/arithmeticOperators.java" afterDir="false" />
+    <list default="true" id="e50d6788-bcd1-44e8-8d8a-8a05f0a4efb8" name="Changes" comment="modulus operator">
+      <change afterPath="$PROJECT_DIR$/src/conditionlOperators/conditionalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +69,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arrayList">
+  <component name="RunManager" selected="Application.arithmeticOperators">
+    <configuration name="arithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arithmeticOperators.arithmeticOperators" />
+      <module name="Basic_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmeticOperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.array" />
       <module name="Basic_Java" />
@@ -101,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arithmeticOperators" />
         <item itemvalue="Application.arrayList" />
         <item itemvalue="Application.array" />
       </list>
@@ -171,7 +182,49 @@
       <option name="project" value="LOCAL" />
       <updated>1657313004058</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="take two values from user">
+      <created>1657345089490</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657345089490</updated>
+    </task>
+    <task id="LOCAL-00010" summary="arithmetic addition">
+      <created>1657345174750</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657345174750</updated>
+    </task>
+    <task id="LOCAL-00011" summary="arithmetic subtraction">
+      <created>1657347857062</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657347857062</updated>
+    </task>
+    <task id="LOCAL-00012" summary="arithmetic multiplication">
+      <created>1657347929089</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657347929089</updated>
+    </task>
+    <task id="LOCAL-00013" summary="arithmetic division">
+      <created>1657347975615</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657347975615</updated>
+    </task>
+    <task id="LOCAL-00014" summary="modulus operator">
+      <created>1657348091616</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657348091616</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +246,12 @@
     <MESSAGE value="display the content of the array list one by one" />
     <MESSAGE value="insert another value to the index" />
     <MESSAGE value="single line comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="single line comment" />
+    <MESSAGE value="take two values from user" />
+    <MESSAGE value="arithmetic addition" />
+    <MESSAGE value="arithmetic subtraction" />
+    <MESSAGE value="arithmetic multiplication" />
+    <MESSAGE value="arithmetic division" />
+    <MESSAGE value="modulus operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="modulus operator" />
   </component>
 </project>
