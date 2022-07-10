@@ -51,6 +51,10 @@ public class ClassAndObject {
         s1.id = 4126;
         s1.setMajor("DS");
 
+        // display the student details
+        s1.display();
+        s2.display();
+
     }
 
 }
