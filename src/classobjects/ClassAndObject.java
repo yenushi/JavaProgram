@@ -47,12 +47,14 @@ public class ClassAndObject {
         s1.id = 70966;
         s1.setMajor("SE");
 
-        s1.setName("Mishty");
-        s1.id = 4126;
-        s1.setMajor("DS");
+        s2.setName("Mishty");
+        s2.id = 4126;
+        s2.setMajor("DS");
+
 
         // display the student details
         s1.display();
+        System.out.println();
         s2.display();
 
     }
