@@ -42,6 +42,15 @@ public class ClassAndObject {
         s1 = new Student(); // s1 now points to the Student type object
         s2 = new Student(); // s2 now points to the Student type object
 
+        // use member variables and methods to use them
+        s1.setName("Indu");
+        s1.id = 70966;
+        s1.setMajor("SE");
+
+        s1.setName("Mishty");
+        s1.id = 4126;
+        s1.setMajor("DS");
+
     }
 
 }
