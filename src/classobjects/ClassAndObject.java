@@ -34,12 +34,11 @@ class Student{
         System.out.println("Major Subject : " + major);
     }
 
-    
-
 }
-
 public class ClassAndObject {
     public static void main(String[] args) {
+        Student s1, s2; // declare two reference variable to point student type object
+
     }
 
 }
