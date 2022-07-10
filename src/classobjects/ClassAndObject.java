@@ -22,7 +22,11 @@ class Student{
             name variable.
         */
     }
+    void setMajor(String subject){ //Take major subject for the student and assign it
+        major = subject;
+    }
 
+    
 
 }
 
