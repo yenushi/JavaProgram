@@ -6,6 +6,12 @@ class Student{
     String name;
     int id;
     String major;
+
+    //member functions/ method declaration
+    void setName(String stName){ // take the student name as string and assign to name variable
+        name = stName;
+    }
+
 }
 
 public class ClassAndObject {
