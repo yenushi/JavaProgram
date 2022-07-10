@@ -7,6 +7,11 @@ public class DataTypeBoolean {
         mybool = true;// set as true
         System.out.println("The value of mybool: " + mybool); //display the value of my bool
 
+        mybool = false;// set as false
+        System.out.println("The value of mybool: " + mybool);
+
+
+
 
     }
 }
