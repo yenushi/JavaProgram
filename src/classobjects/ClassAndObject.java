@@ -1,6 +1,5 @@
 package classobjects;
 
-import java.sql.SQLOutput;
 
 //definition of a class named Student
 class Student{
