@@ -1,5 +1,7 @@
 package classobjects;
 
+import java.sql.SQLOutput;
+
 //definition of a class named Student
 class Student{
     //member variables of the student class
@@ -24,6 +26,12 @@ class Student{
     }
     void setMajor(String subject){ //Take major subject for the student and assign it
         major = subject;
+    }
+
+    void display(){
+        System.out.println("The student name: " + name);
+        System.out.println("Student id : " + id);
+        System.out.println("Major Subject : " + major);
     }
 
     
