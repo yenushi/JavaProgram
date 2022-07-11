@@ -15,6 +15,10 @@ class Myclass{
         this.b = b;
     }
 
+    public void display(){
+        System.out.println("The value of a and b are: " + a + " and " + b);
+    }
+
 
 
 }
