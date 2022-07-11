@@ -25,6 +25,12 @@ public class javaset {
         union.addAll(set2); // add item of the set 2
         System.out.println("Set union: " + union);
 
+        // intersection of two sets
+        Set<Integer> intersection = new HashSet<Integer>(set1); // copy the set1
+        intersection.retainAll(set2); //remove those items, those are not present in set2
+        System.out.println("Set intersection: " + intersection);
+
+
 
 
 
