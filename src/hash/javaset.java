@@ -30,9 +30,9 @@ public class javaset {
         intersection.retainAll(set2); //remove those items, those are not present in set2
         System.out.println("Set intersection: " + intersection);
 
-
-
-
-
+        // the difference of teo sets
+        Set<Integer> diff = new HashSet<Integer>(set1); //copy the set1
+        diff.removeAll(set2); // remove common elements from two sets
+        System.out.println("Set Difference: " + diff);
     }
 }
