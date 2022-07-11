@@ -24,6 +24,7 @@ public class ThisKeyword {
         Myclass myObj = new Myclass();
         myObj.display();
         myObj.setData(23,46);
+        myObj.display();
 
 
 
