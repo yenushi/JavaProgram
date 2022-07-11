@@ -8,5 +8,6 @@ public class LinkedListDemo {
         //create a linked list for integer type data
         LinkedList<Integer> intList = new LinkedList<>();
 
+
     }
 }
