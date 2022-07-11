@@ -18,10 +18,10 @@ class Myclass{
     public void display(){
         System.out.println("The value of a and b are: " + a + " and " + b);
     }
-
-
-
 }
-
 public class ThisKeyword {
+    public static void main(String[] args) {
+        Myclass myObj = new Myclass();
+
+    }
 }
