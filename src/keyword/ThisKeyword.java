@@ -22,6 +22,10 @@ class Myclass{
 public class ThisKeyword {
     public static void main(String[] args) {
         Myclass myObj = new Myclass();
+        myObj.display();
+        myObj.setData(23,46);
+
+
 
     }
 }
