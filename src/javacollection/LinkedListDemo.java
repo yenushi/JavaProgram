@@ -25,14 +25,11 @@ public class LinkedListDemo {
             arrList.add(item);
         }
 
-        System.out.println("The linked list size: " + arrList.size() + "\ncontent" + arrList + "\n");
+        System.out.println("The array list size: " + arrList.size() + "\ncontent" + arrList + "\n");
 
+        // add arrayList directly to the linked list, at the index 2
+        intList.addAll(2, arrList);
 
-
-
-
-
-
-
+        System.out.println("The linked list size: " + intList.size() + "\ncontent: " + intList + "\n");
     }
 }
