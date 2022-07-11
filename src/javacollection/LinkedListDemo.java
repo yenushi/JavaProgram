@@ -21,6 +21,13 @@ public class LinkedListDemo {
         int[] array = { 5, 15 , 30, 80 , 60,25}; // an array of integers
         // create another array list with all the item in the list
         ArrayList<Integer> arrList = new ArrayList<>();
+        for(int item: array) {
+            arrList.add(item);
+        }
+
+        System.out.println("The linked list size: " + arrList.size() + "\ncontent" + arrList + "\n");
+
+
 
 
 
