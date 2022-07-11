@@ -9,5 +9,11 @@ public class javaset {
 
         Set<Integer> set1 = new HashSet<Integer>();
         Set<Integer> set2 = new HashSet<Integer>();
+
+        // add item in two different sets
+        for(int item: list1)
+            set1.add(item);
+        for(int item: list2)
+            set2.add(item);
     }
 }
