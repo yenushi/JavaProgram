@@ -15,5 +15,13 @@ public class javaset {
             set1.add(item);
         for(int item: list2)
             set2.add(item);
+
+        // display set
+        System.out.println("The first set: " + set1);
+        System.out.println("The second set: " + set2);
+
+
+
+
     }
 }
