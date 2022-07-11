@@ -20,6 +20,11 @@ public class javaset {
         System.out.println("The first set: " + set1);
         System.out.println("The second set: " + set2);
 
+        // the union of two sets
+        Set<Integer> union = new HashSet<Integer> (set1); // copy the set1
+        union.addAll(set2); // add item of the set 2
+        System.out.println("Set union: " + union);
+
 
 
 
