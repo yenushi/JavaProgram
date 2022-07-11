@@ -7,6 +7,12 @@ class Myclass{
         this.a = a; // this.a points the member variables a. (a=a) is ambiguous, so this keyword is used
         this.b = b;
     }
+
+    public Myclass(){
+        this(0,0); // it will call parameterized constructor with value 0 and 0
+    }
+
+
 }
 
 public class ThisKeyword {
