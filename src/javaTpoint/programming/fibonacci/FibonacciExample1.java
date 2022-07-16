@@ -1,4 +1,4 @@
-package javaTpoint.programming;
+package javaTpoint.programming.fibonacci;
 
     class FibonacciExample1{
         public static void main(String args[])
