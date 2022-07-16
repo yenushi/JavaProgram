@@ -24,5 +24,6 @@ public class PrimeExample2{
         checkPrime(3);
         checkPrime(17);
         checkPrime(20);
+
     }
 }
