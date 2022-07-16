@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e50d6788-bcd1-44e8-8d8a-8a05f0a4efb8" name="Changes" comment="difference of teo sets">
-      <change afterPath="$PROJECT_DIR$/src/multithreading/Transfer.java" afterDir="false" />
+    <list default="true" id="e50d6788-bcd1-44e8-8d8a-8a05f0a4efb8" name="Changes" comment="difference of two sets">
+      <change afterPath="$PROJECT_DIR$/src/javaTpoint/programming/FibonacciExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTpoint/programming/FibonacciExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,14 +64,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "P:/2nd yr/1st sem/OOP/Basic_Java/src/javaTpoint",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Transfer">
     <configuration name="Transfer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multithreading.Transfer" />
@@ -314,6 +316,7 @@
     <MESSAGE value="union of two sets" />
     <MESSAGE value="intersection of two sets" />
     <MESSAGE value="difference of teo sets" />
-    <option name="LAST_COMMIT_MESSAGE" value="difference of teo sets" />
+    <MESSAGE value="difference of two sets" />
+    <option name="LAST_COMMIT_MESSAGE" value="difference of two sets" />
   </component>
 </project>
