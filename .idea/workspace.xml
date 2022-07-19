@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e50d6788-bcd1-44e8-8d8a-8a05f0a4efb8" name="Changes" comment="Prime Example 1">
-      <change beforePath="$PROJECT_DIR$/src/javaTpoint/programming/FibonacciExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTpoint/programming/fibonacci/FibonacciExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTpoint/programming/FibonacciExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTpoint/programming/fibonacci/FibonacciExample2.java" afterDir="false" />
+    <list default="true" id="e50d6788-bcd1-44e8-8d8a-8a05f0a4efb8" name="Changes" comment="Palindrome Example 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaTpoint/programming/primeNumber/PrimeExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTpoint/programming/primeNumber/PrimeExample1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,7 +295,42 @@
       <option name="project" value="LOCAL" />
       <updated>1657996165149</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Prime Example 2">
+      <created>1658000509659</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1658000509659</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Prime Example 3">
+      <created>1658000729563</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1658000729563</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Prime Example 4">
+      <created>1658001669335</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658001669335</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Palindrome Example 1">
+      <created>1658001900304</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1658001900304</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Palindrome Example 2">
+      <created>1658002017099</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1658002017099</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,6 +364,11 @@
     <MESSAGE value="difference of teo sets" />
     <MESSAGE value="difference of two sets" />
     <MESSAGE value="Prime Example 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prime Example 1" />
+    <MESSAGE value="Prime Example 2" />
+    <MESSAGE value="Prime Example 3" />
+    <MESSAGE value="Prime Example 4" />
+    <MESSAGE value="Palindrome Example 1" />
+    <MESSAGE value="Palindrome Example 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrome Example 2" />
   </component>
 </project>

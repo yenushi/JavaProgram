@@ -16,5 +16,8 @@ class PalindromeExample2
             System.out.println("Entered string/number is a palindrome.");
         else
             System.out.println("Entered string/number isn't a palindrome.");
+
+
+
     }
 }
