@@ -43,9 +43,7 @@ public class Array {
         }
 
         myscanner.close();
-
-
-
+        System.out.println("hello");
 
 
     }
